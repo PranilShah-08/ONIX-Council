@@ -84,11 +84,11 @@ Previous questions are stored in-session for quick reference.
 ```bash
 pip install -r requirements.txt
 
-
+```md
 2️⃣ Configure Environment Variables
 
 Create a .env file in the project root:
-
+```bash
 OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
 
 CHAIRMAN_NAME=Chairman
@@ -173,5 +173,6 @@ Model performance analytics
 Visual voting / confidence scores
 
 Real-time streaming tokens
+
 
 Deployment support
